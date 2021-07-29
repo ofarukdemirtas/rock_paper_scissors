@@ -30,13 +30,3 @@ while 1:
             break
     else :
         print("please rock paper or scissors")
-
-        
-
-
-
-
-
-
-
-
